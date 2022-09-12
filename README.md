@@ -1,18 +1,22 @@
 # Built with Flutter
-Built with Flutter tracks companies who are using Flutter. The goal is to track the growth of Flutter in the corporate world.
 
-Questions We'd like to answer:
-- Which companies are adopting Flutter?
-- How big are these teams?
-- Which industries are adopting Flutter?
-- Which regions are adopting Flutter fastest?
-- Who are the key decision makers?
-- How can we accelerate the adoption of Flutter using data?
+How can we accelerate the adoption of Flutter using data? 
+
+Built with Flutter tracks companies who are using Flutter. Our goal is to track the growth of Flutter in the corporate world.
 
 ## Companies using Flutter (Click the image)
 [<img src="./assets/built-with-flutter.png">](https://airtable.com/shrWbHM5xvmZqpchV/tblCCKrEng35JdAKu)
 
 # Frequently Asked Questions
+
+## Why is this data useful?
+
+We'd like to answer the following questions:
+- Which companies are adopting Flutter?
+- How big are these teams?
+- Which industries are adopting Flutter?
+- Which regions are adopting Flutter fastest?
+- Who are the key decision makers?
 
 ## What is the source of this information?
 
