@@ -45,6 +45,8 @@ This includes:
 
 If you know a company that is using Flutter please create a PR.
 
+In your PR provide the company name and a reference, that's it!
+
 Contributions must meet the following criteria:
 
 - [ ] The company is a startup or corporation and has more than 5 employees
