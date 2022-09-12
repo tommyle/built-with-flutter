@@ -9,8 +9,8 @@ Questions We'd like to answer:
 - Who are the key decision makers?
 - How can we accelerate the adoption of Flutter using data?
 
-## Companies using Flutter
-https://airtable.com/shrWbHM5xvmZqpchV/tblCCKrEng35JdAKu
+## Companies using Flutter (Click the image)
+[<img src="./assets/built-with-flutter.png">](https://airtable.com/shrWbHM5xvmZqpchV/tblCCKrEng35JdAKu)
 
 # Frequently Asked Questions
 
