@@ -1,12 +1,10 @@
 # Built with Flutter
 
 How can we accelerate the adoption of Flutter using data?
+- We track the adoption of Flutter in the startup and corporate worlds, to provide insight into the growth of Flutter
+- We shine a spotlight on companies that are using Flutter to promote adoption
 
-**BuiltWithFlutter** tracks companies who are using Flutter. 
-
-Our goal is to track the adoption of Flutter in the startup and corporate worlds.
-
-## Why is this data useful and who is it for?
+## Who is this list for?
 
 For tech leaders and decision makers:
 - This list provides some insight into how other companies have used Flutter to build their applications
