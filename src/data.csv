@@ -1,0 +1,137 @@
+﻿Company,Website,People,Apps,Number of Apps,Type,Users,Flutter Engineers,Industry,Location,Company Size,Source
+BMW,https://www.bmw.com/en/index.html,Dr. Nicolai Kraemer - Vice President Offboard Platform BMW Group,"My BMW - https://apps.apple.com/us/app/my-bmw/id1519457734
+Mini - https://apps.apple.com/ca/app/mini/id1519458349",2,"Auto companion
+Auto companion",,,Automotive,Global,"118,909",https://flutter.dev/showcase/bmw
+Abbey Road Studios,https://www.abbeyroad.com/,,Topline - https://apps.apple.com/us/app/topline/id1270125833,1,Multitrack audio recording app,,,Music,"London, UK",101-250,https://flutter.dev/showcase/abbey-road-studios
+Alibaba Group,https://goofish.com/,"Xinyi Guo - Senior Project Manager
+Jidong Chen - Senior Engineer",Xianyu - https://apps.apple.com/cn/app/%E9%97%B2%E9%B1%BC-%E9%97%B2%E4%B8%8D%E4%BD%8F-%E4%B8%8A%E9%97%B2%E9%B1%BC/id510909506,1,Used goods e-commerce,50 million,,e-Commerce,China,"254,941",https://flutter.dev/showcase/alibaba-group
+Beike Zhaofang,https://bj.ke.com/,"Cacter Zhao - Senior Engineer
+Jiahang Zhao - Software Engineer
+Diana Wang - Senior Product Manager
+Dong Shao - Senior Engineer
+Dean Zhang - App Platform Manager","Beike app
+Beiwo Home Furnishing - https://home.ke.com/",2,"Apartment rentals app
+Home improvement services and construction
+",,100,Housing service platform,"Chengdu, China
+Shanghai, China","1,327",https://flutter.dev/showcase/beike
+Google,https://pay.google.com/intl/en_ca/about/,"David Ko - Engineering Director, Google Pay
+Martin Aguinis - Marketing Lead
+",Google Pay - https://apps.apple.com/us/app/google-pay-save-pay-manage/id1193357041,1,Payment app,100 million,180,"Technology, Fin-tech","California, USA","150,028",https://flutter.dev/showcase/google-pay
+Byte Dance,https://www.bytedance.com/en/,"Jonathan Dong - Flutter Infra Tech Lead
+Ying Wang - Flutter Infra Engineer
+Dawei Bi - Dali Education Smart Device Lab Tech Lead
+Ying Wang - Flutter Infra Engineer
+Swain Sun - Flutter Infra Engineer
+","JIKE Mistakes Printer
+JIKE Sacn Master
+Alchemy
+Douyin Huoshan
+Lark - https://apps.apple.com/us/app/lark-collaboration-tool/id1452166623
+Xingfuli
+DaliJiaZhang
+Xiaohe
+Volcano
+Xigua Video - https://www.ixigua.com/?wid_try=1",90+,"IoT pinter software
+IoT scanner software
+Internal tool for content generation (Art)
+Social Videos
+Collaboration, communication, video conferecing, document-sharing, project management, productivity tools
+Property rentals
+Unknown
+Unknown
+Business search engine
+Videos",,800+,Technology,China,"10,000+",https://flutter.dev/showcase/bytedance
+Google,https://play.google.com/store/apps/details?id=com.google.android.apps.village.boond,,Crowdsource - https://play.google.com/store/apps/details?id=com.google.android.apps.village.boond,1,Gamified AI Training,3 million,,,"California, USA",,https://flutter.dev/showcase/crowdsource
+Dream11,https://www.dream11.com/,"Amit Sharma - CTO
+Nishel Mehta - AVP Growth
+Barkha Sikka - SDE 2 Growth
+Shouvik Ghosh Roy - AVP Growth
+Rajeev Mishra - SDE 3 Growth","Dream11 - https://apps.apple.com/in/app/dream11-fantasy-cricket-app/id1077286074
+Power Predictor",1,"Fantasy Sports
+Cricket Prediction Game",50 million,3,Gaming,"Mumbai, Indai","1,200+",https://flutter.dev/showcase/dream11
+Ebay,https://www.ebay.com/,Corey Sprague - Senior iOS Engineer,eBay Motors - https://apps.apple.com/us/app/ebay-motors-parts-cars-more/id1456156090,1,Automotive Marketplace,,,Online marketplace,"San Jose, California, USA","10,800",https://flutter.dev/showcase/ebay
+Posse,https://blog.goposse.com/,"Mike Karns - Digital Engagement
+Posse - Development studio
+David DeRember - Founding Partner, Posse
+Jessica Wagner - Manager, Posse
+Albert Lardizabal - Lead Developer, Posse",Hamilton - https://apps.apple.com/us/app/hamilton-the-official-app/id1255231054,1+,Musical App,,2-3,Music,USA,,https://flutter.dev/showcase/hamilton
+iRobot,"https://www.irobot.com/
+",,"iRobot Coding -  https://play.google.com/store/apps/details?id=com.rootrobotics.rootcoding
+",1,Education,,2,"Consumer technology
+","Bedford, Massachusetts, USA","1,372
+",https://flutter.dev/showcase/irobot
+"Lotrum GmbH
+",https://lotum.com/en,"Sebastian Schmitt - Co-Founder & CEO
+Dennis Becker - Head of Development
+Fabian Fink - Game Lead
+Petra Langenbacher - Flutter Developer
+",4 Pics 1 Word - https://play.google.com/store/apps/details?id=de.lotum.whatsinthefoto.us,1,"Mobile Games
+",,,Apps and games,"Bad Nauheim, Germany
+","40
+",https://flutter.dev/showcase/lotum
+Nubank,https://nubank.com.br/en/,"Alexandre Freire - Engineering Manager
+Igore Borges - Software Engineer
+Luiz Dubas - Tech Manager
+Bruna Costa - Product Manager
+Jac Mattioli - Product Designer
+Noe Branagan - Engineering Manager",Nubank - https://apps.apple.com/us/app/nubank-conta-e-cart%C3%A3o/id814456780,1,Banking,,,"Fin-tech
+","Sao Paulo, Brazil
+","6,068",https://flutter.dev/showcase/nubank
+Push,https://www.trainwithpush.com/,Rami Alhamad - Founder & CPO,"Push Pro - https://apps.apple.com/us/app/push-pro/id903431035
+",1,Athletic Training,,,Sports technology,"Toronto Ontario, Canada","10-20
+",https://flutter.dev/showcase/push
+QuintoAndar,https://www.quintoandar.com.br/,Augusto Souza - Engineering Manager,QuintoAndar - https://apps.apple.com/us/app/quintoandar-im%C3%B3veis/id1109011232,1,Real estate marketplace,,35+,"Technology, real-estate","Sao Paulo, Brazil",450,https://flutter.dev/showcase/quintoandar
+"Reflectly
+",https://reflectly.app/,"Jakob Mikkelsen - Founder & CEO
+Daniel Vestergaard - Founder & CTO
+Ryan Thorpe - Head of Growth
+Tristan Clarke - Flutter Developer
+Louis Clarke - Flutter Developer
+Abel Putnoki - iOS/Flutter Developer
+Michael Marsh - Flutter Developer
+",Reflectly - https://apps.apple.com/us/app/reflectly-journal-ai-diary/id1241229134,1,Journaling app,1+ million,4,IT Services and IT Consulting,"Aarhus Jutland, Denmark",10-15,https://flutter.dev/showcase/reflectly
+Rive,https://rive.app/,Guido Rosso - Co-founder,Rive Editor - https://editor.rive.app/,1,"Animation editor
+",,,Animation and post-production tools,"San Fransisco, California, USA",17,https://flutter.dev/showcase/rive
+"Stadia
+",https://stadia.google.com/,"Nick Sparks - Software Engineer
+",Stadia - https://play.google.com/store/apps/details,1,Gaming,1+ million,,Gaming,"San Fransisco, California, USA",70+,https://flutter.dev/showcase/stadia
+Vertical Design,https://vertical.is/,Giovanni Moraja - CEO & Design Strategist,"STAIR Coach - https://apps.apple.com/us/app/stair-coach/id1567412251
+",1+,"Mental Health
+",,,Digital Products,"Berkeley, California, USA","20
+",https://flutter.dev/showcase/us-department-of-veterans-affairs
+Sua Musica,https://www.suamusica.com.br/,Alan Trope - CTO,"Sua Musica - https://apps.apple.com/sg/app/sua-m%C3%BAsica-ouvir-e-baixar/id1184035619
+",1,Music Platform,10+ million,,Music,"Sao Paulo, Brazil",120+,https://flutter.dev/showcase/sua-musica
+Supernova,https://www.supernova.io/,"Jiří Třečák - CEO
+Artem Ufimtcev - CTO",Supernova - https://www.supernova.io/,1,Design Software,,,Software,"New York, USA",30+,https://flutter.dev/showcase/supernova
+Tencent,"
+https://www.tencent.com","Yiting Wang - Product Manager
+Weiwei Wang - Senior Engineer
+Jinlin Tu - Software Engineer
+Haiyin Li - Software Engineer
+Jie Yin - Senior Software Engineer
+Yun Xu - Product Manager
+Yi Fang - Mobile Software Engineer
+Fei Song - Senior Software Engineer
+Fang Fang - Designer","Tencent English AITeacher
+Tencent Now Live
+Tencent K12
+Tencent Mr. Translator
+Tencent QiDian
+Tencent DingDang",6+,Education and Entertainment,,60+,Software,"Shenzhen, China","112,771",https://flutter.dev/showcase/tencent
+Toyota,https://www.toyota.com/,"Daniel Hall - Chief Engineer, Toyota Motor North America
+
+",Toyota Infotainment system,1,Infotainment,,,Automotive,Global,"	366,283",https://flutter.dev/showcase/toyota
+Fictioneers,https://www.fictioneers.com/,"Paul King - Lead Software Engineer
+Scott Mellors - Mobile Application Developer ",Wallace & Gromit: Big Fix Up - https://apps.apple.com/ca/app/wallace-gromit-big-fix-up/id1517267372,1,"Games and entertainment
+",,3+,"Entertainment, Software","Bristol, Bristol, England",15+,https://flutter.dev/showcase/wallace-gromit-ar
+Rows,https://rows.com/,"Renan Araujo - Engineer
+",Rows - https://rows.com/,1,"Spreadsheet, Office tools",,,Productivity Software,"Berlin, Germany",50+,https://flutter.dev/showcase/rows
+Superlist,https://www.superlist.com/,"Brandon Arnold - Co-Founder
+Steffen Kiedel - Co-Founder & CEO",Superlist - https://www.superlist.com/,1,Project management,,5+,Productivity Software,"Berlin, Germany",20+,https://flutter.dev/showcase/superlist
+"Tonal
+",https://www.tonal.com/,"Max Lapides - Mobile Software Engineering Manager
+Natalie Flores - Senior Software Engineer","Tonal - https://apps.apple.com/us/app/tonal/id1437460744
+",1,Fitness tracking,,,Fitness,"San Francisco, California, USA",590+,https://flutter.dev/showcase/tonal
+Travelstart,https://www.travelstart.com/,Amanpreet Singh - CEO,"Flapp Travel App - https://apps.apple.com/za/app/flapp-travel-app/id957118897
+",1,Flight booking & travel deals,,,Travel,"Cape Town, Western Cape, South Africa
+",290+,https://flutter.dev/showcase/travelstart
