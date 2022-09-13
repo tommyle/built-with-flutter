@@ -45,7 +45,7 @@ This includes:
 
 If you know a company that is using Flutter please create a PR.
 
-In your PR provide the company name and a reference, that's it!
+In your PR provide the company name and a source for the data point, that's it!
 
 Contributions must meet the following criteria:
 
