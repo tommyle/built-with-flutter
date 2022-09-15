@@ -5,7 +5,7 @@ A list of companies using Flutter
 We track the adoption of Flutter in the startup and corporate worlds. We shine a spotlight on these companies to help promote the adoption of Flutter.
 
 ## Companies using Flutter (Click the image)
-[<img src="./assets/built-with-flutter.png">](https://airtable.com/shrWbHM5xvmZqpchV/tblCCKrEng35JdAKu)
+[<img src="./assets/built-with-flutter.png">](https://builtwithflutter.com/)
 
 # Frequently Asked Questions
 
